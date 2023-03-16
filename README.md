@@ -1,7 +1,5 @@
 # Credit Card Customer Segmentation with Agglomerative, K-Means, and K-Medoids
 
-<img src="assets/illustration.jpg" alt="Card machine photo created by fanjianhua - www.freepik.com"/>
-
 *Image Source: https://www.freepik.com/photos/card-machine*
 
 ## Contents
